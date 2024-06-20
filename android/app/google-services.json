@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804658477538",
+    "project_id": "cobaajaa-8883b",
+    "storage_bucket": "cobaajaa-8883b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658477538:android:bf30bb2102cdbefe3321bb",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOwtqNQ_8Vow2WBFX7v80-hQVa2-xD1-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
